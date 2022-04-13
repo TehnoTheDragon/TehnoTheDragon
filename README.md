@@ -1,0 +1,4 @@
+- I am Tehno
+- I like GameDev
+- I programming on C++ & Lua
+- I have experience with Roblox Studio
